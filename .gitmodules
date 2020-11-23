@@ -1,0 +1,6 @@
+[submodule "mobileApp"]
+	path = mobileApp
+	url = https://github.com/leo-bgrn/GriGriMobileApp
+[submodule "server"]
+	path = server
+	url = https://github.com/leo-bgrn/GriGriApp
