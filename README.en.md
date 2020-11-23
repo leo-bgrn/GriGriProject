@@ -3,23 +3,24 @@
 ![alt text](./Resources/tripleScreenMockUp.png)
 
 
-Depuis nos premières vacances entre amis, on joue à un jeu un peu débile. 
+From our first holidays with my friends, we are playing a little dumb game.
 
-Un objet, le but étant de ne pas l'avoir (C'est un cadeau happy meal 😂).
+An object, not having it is the goal (It is a Happy meal game 😂)
 
-Quand on l'a, on doit le donner à quelqu'un d'autre. La seule règle c'est la personne ne doit pas s'en rendre compte. 
+When we have it, we have to give it to someone else. The only rule: the person receiving it must not be aware.
 
-On peut le mettre dans un sac, dans la capuche ou autre, les idées ne manquent pas !
+We can put it in a bag, or on the hood, ideas are not lacking.
 
-## Pourquoi faire une appli ?
+## Why creating an app ?
 
-- Garder le compte sur les points
+- Keep score
 
-- Savoir de qui il faut se méfier
+- Know who to be wary of
 
+- Simply earn experience in mobile app development
 - Simplement gagner de l'expérience en création d'application mobile
 
-## Stack Technique
+## Technical stack
 
 - Mobile App :
     - ReactNative - Crossplatform apps
@@ -28,7 +29,7 @@ On peut le mettre dans un sac, dans la capuche ou autre, les idées ne manquent 
     - Modal - Pop-up
     - React Native Animatable - Animation
     - Lottie - Logo Animated (Loading screen)
-    - Elaboration du design sur Adobe XD
+    - Designed on Adobe XD
 
 - Server (REST Api) :
     - Express
